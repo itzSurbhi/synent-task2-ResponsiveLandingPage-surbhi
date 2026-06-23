@@ -33,8 +33,6 @@ The landing page adapts seamlessly to different screen sizes:
 
 ## 🎯 Learning Outcomes
 Through this project, I improved my skills in:
-- Responsive Web Design
-- CSS Flexbox & Grid
 - Media Queries
 - UI/UX Design Principles
 - Front-End Development
@@ -43,7 +41,7 @@ Through this project, I improved my skills in:
 The landing page includes:
 - Hero Section with smartwatch image
 - Feature Cards highlighting product benefits
-- Footer section
+- Footer section.
 
 ## Screenshots:
 <img width="1600" height="649" alt="WhatsApp Image 2026-06-20 at 9 12 44 PM" src="https://github.com/user-attachments/assets/9a8c5de2-4f1b-48b6-87b7-062bdf85ae19" />
